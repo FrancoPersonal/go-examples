@@ -2,6 +2,7 @@ adddev:
 	git branch
 
 update:
+	git branch
 	git status
 	git add .
 
