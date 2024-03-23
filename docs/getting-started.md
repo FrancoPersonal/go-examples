@@ -65,3 +65,8 @@ Run your code to see the greeting.
 $ go run .
 Hello, World!
 ```
+
+## Some Good Practices
+
+- [Golang Best Practices (Top 20)](https://medium.com/@golangda/golang-quick-reference-top-20-best-coding-practices-c0cea6a43f20)
+- [Effective Go](https://go.dev/doc/effective_go)

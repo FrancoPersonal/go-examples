@@ -1,5 +1,5 @@
 init:
-	go mod init example/hello
+	go mod init github.com/FrancoPersonal/samples/hexa-hello
 	go mod tidy
 
 run:

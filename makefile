@@ -8,3 +8,4 @@ update:
 
 commit:
 	git commit -m "initial commit"
+	git push

@@ -1,6 +1,6 @@
 # Getting Started
 
-## Dependences
+## Dependencies
 
 - [chocolatey](https://chocolatey.org/install)
 - make
