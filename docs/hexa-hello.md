@@ -40,6 +40,6 @@ go: creating new go.mod: module example/hello
 > if you use directly the repo use:
 >
 > ```batch
-> $ go mod init github.com/FrancoPersonal/samples/hexa-hello
+> $ go mod init github.com/FrancoPersonal/go-examples/samples/hexa-hello
 > ```
 

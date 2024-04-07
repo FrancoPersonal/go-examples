@@ -1,7 +1,7 @@
 package ports
 
 import (
-	"github.com/FrancoPersonal/samples/hexa-hello/src/internal/app/domain"
+	"github.com/FrancoPersonal/go-examples/samples/hexa-hello/src/internal/app/domain"
 )
 
 type GameRepository interface {
